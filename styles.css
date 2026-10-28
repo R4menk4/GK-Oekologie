@@ -16,6 +16,9 @@ figure,#curve-plot{overflow-x:auto}.chart{min-width:560px}fieldset{border:1px so
 .selected-answer{display:block;margin-top:7px;color:#355c50;font-size:13px;overflow-wrap:anywhere}.selected-answer:empty{display:none}.table-tip{display:none}@media(max-width:570px){.table-tip{display:block;font-size:12px;color:#536b6c}}
 .term-tray{position:static}.curve-scroll{scroll-margin-top:18px}
 
+/* Comfortable touch targets, including curve labels and reorder arrows. */
+@media (any-pointer:coarse){button,.button{min-height:44px;min-width:44px}.order-list button{padding:8px 12px}header nav a,.lesson-nav a,.self-topics a,.self-links a{display:inline-flex;align-items:center;min-height:44px}summary{min-height:44px;padding:8px 0}.self-label{min-height:44px}input,select,textarea{font-size:16px}input[type=range]{min-height:44px}.curve-scroll{-webkit-overflow-scrolling:touch}}
+
 /* Detailed interpretation feedback and reusable annotated graph */
 .interpretation-panel{margin-top:2rem;padding:1.25rem;border:1px solid #b7cebf;border-radius:16px;background:#f3f7f0}.interpretation-panel .item{background:white}.item-explanations{margin-top:1.5rem}.item-explanations ol{padding-left:1.4rem}.item-explanations li{padding:.7rem 1rem;margin:.7rem 0;border-left:4px solid #d4a85d;background:#faf6ec;border-radius:8px}.item-explanations li.answer-correct{border-left-color:#3b8065;background:#edf5ee}.item-explanations p{margin:.35rem 0}.curve-reference{margin:1.2rem 0;padding:1rem;background:#fffdf8;border:1px solid #d6dfcf;border-radius:14px}.reference-label{display:block;pointer-events:none;text-align:center;background:#fffef9;font-size:13px;padding:5px 7px}.curve-reference figcaption{margin-bottom:.7rem}
 

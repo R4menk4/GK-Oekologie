@@ -14,6 +14,11 @@ Musterlösungen werden erst nach eigener Bearbeitung zugänglich. Freie Antworte
 ## Lokal verwenden
 Das Repository herunterladen und `index.html` öffnen. Alle Dateien und den Ordner `assets` zusammenhalten. Es sind keine Installation und kein Build erforderlich. GitHub Pages veröffentlicht den Stammordner des Branches `main`.
 
+## Bedienung auf Tablets
+Bei Zuordnungen zuerst die Karte bzw. den Fachbegriff antippen, anschließend die Überschrift des Zielbereichs oder ein Zielfeld. Die Toleranzkurve bietet zusätzlich eine Liste der Zuordnungsstellen unter dem Diagramm. Breite Diagramme können innerhalb ihres Rahmens seitlich verschoben werden. Auf Touchgeräten sind Schaltflächen mindestens 44 × 44 CSS-Pixel groß.
+
+Geprüft am 28.10.2026 mit WebKit und emulierten iPad-Toucheingaben: 75 Ansichten bei 810 × 1080, 1080 × 810 und 768 × 1024 CSS-Pixeln ohne seitlichen Seitenüberlauf. Bedienprüfungen für Karten, Kurvenzuordnung, Sortieren, Diagrammpunkte, Schieberegler, Auswahlfelder, Selbstkontrolle, Antwortspeicherung und Musterlösungssperre bestanden. Dies ist eine Browseremulation, kein Test auf einem physischen iPad; die native Bildschirmtastatur und der iPad-Dateidialog wurden nicht geprüft.
+
 ## Materialien und Abbildungen
 Die Aufgaben orientieren sich an den bisher behandelten sieben GK-Themen. Zusätzliche Kontexte und konstruierte Modelldaten sind gekennzeichnet. Naturillustrationen wurden mit KI erstellt und dienen der Veranschaulichung. Nachgezeichnete Kurven und Messpunkte aus Originalaufgaben sind als näherungsweise digitalisiert gekennzeichnet.
 

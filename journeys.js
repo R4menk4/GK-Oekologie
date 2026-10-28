@@ -185,7 +185,7 @@ window.GK.journeys=[
       {
         "title": "Die Toleranzkurve zusammensetzen",
         "type": "curve",
-        "prompt": "Ziehe die acht Fachbegriffe an die passenden Stellen im Diagramm. Alternativ: Begriff anklicken und anschließend das Zielfeld auswählen. Die Farben grenzen Bereiche ab; die Ziffern bezeichnen Zuordnungsstellen.",
+        "prompt": "Ordne die acht Fachbegriffe den passenden Stellen im Diagramm zu. Tippe zuerst einen Begriff und dann ein Zielfeld im Diagramm oder in der Liste darunter an. Mit der Maus kannst du die Begriffe auch ziehen. Das Diagramm lässt sich bei Bedarf seitlich verschieben. Die Farben grenzen Bereiche ab; die Ziffern bezeichnen Zuordnungsstellen.",
         "material": "<p><b>Modellbedingungen:</b> Dauerhaftes Überleben ist bei 2–18 g/L möglich, außerhalb nicht. Bei 2–4 und 16–18 g/L werden keine keimfähigen Samen gebildet; bei mehr als 4 und weniger als 16 g/L ist Fortpflanzung möglich. Als besonders günstig gilt in diesem Lehrmodell eine Wuchsleistung von mindestens 80 % des Höchstwerts. Lies die zugehörigen Salzkonzentrationen im Diagramm ab. Dieses Kriterium ist eine Übungsannahme, keine allgemeingültige biologische Grenze.</p><p>Die relative Wuchsleistung vergleicht das Wachstum mit dem höchsten Wert im Versuch: Dieser ist auf 100 % gesetzt. Ein Wert von 50 % bedeutet halb so viel Wachstum wie am höchsten Punkt.</p>",
         "items": [
           [
