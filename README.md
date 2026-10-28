@@ -11,6 +11,13 @@ Interaktiver Lernraum zur Ökologie für den Biologie-Grundkurs Q2.
 
 Musterlösungen werden erst nach eigener Bearbeitung zugänglich. Freie Antworten werden nicht automatisch fachlich bewertet. Eingaben und Selbsteinschätzungen bleiben im jeweiligen Browser; sie lassen sich mit „Antworten sichern“ exportieren.
 
+## Fachliches Nachschlagewerk
+Die 21 Lernabschnitte wurden am 28.10.2026 vollständig als allgemeine Erklärtexte überarbeitet. Grundlage für Kursniveau und Umfang sind die sieben bereits behandelten GK-Arbeitsblätter: Ökosysteme, abiotische Faktoren/Toleranz, Konkurrenz/Potenz, ökologische Nische, Standorte/Pflanzen, Symbiose und Parasitismus. Die Materialien bestimmen die Inhalte; ihre Tabellen, Einzelfallauswertungen und Lösungen werden in diesem Bereich nicht erneut durchgearbeitet.
+
+Die Lerntexte erläutern Fachbegriffe, biologische Ursachen und Zusammenhänge mit kurzen Beispielen, Merksätzen und Begriffstabellen. Eine eigenständig erstellte schematische Toleranzkurve veranschaulicht die allgemeinen Begriffe ohne konkrete Versuchswerte. Das bestehende Lernprogramm gibt Aufbau und Gestaltung vor; weitere Kursinhalte wurden nicht als Vorwissen übernommen. Bearbeitet wird die GitHub-Fassung dieses Repositorys.
+
+Prüfung: 21 Abschnitte samt Themenübersichten auf Desktop sowie in WebKit mit iPad- und iPhone-Emulation (87 Ansichten). Übungs-, Klausur-, Lernweg- und Selbstkontrolldaten sowie die aktive Musterlösungssperre wurden mit dem vorherigen Stand verglichen und sind unverändert.
+
 ## Lokal verwenden
 Das Repository herunterladen und `index.html` öffnen. Alle Dateien und den Ordner `assets` zusammenhalten. Es sind keine Installation und kein Build erforderlich. GitHub Pages veröffentlicht den Stammordner des Branches `main`.
 
