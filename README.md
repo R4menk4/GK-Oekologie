@@ -4,12 +4,19 @@ Interaktiver Lernraum zur Ökologie für den Biologie-Grundkurs Q2.
 
 **Lernprogramm:** https://r4menk4.github.io/GK-Oekologie/
 
-- Selbstkontrolle: 24 Kompetenzen mit passenden Übungslinks.
+- Selbstkontrolle: 23 Kompetenzen zur Klausurvorbereitung sowie eine separat gekennzeichnete Zusatzkompetenz mit passenden Übungslinks.
 - Lerninhalte: sieben Themen mit 21 Abschnitten.
-- Übungen: 27 Kurzübungen und sechs Lernwege mit 25 Etappen.
-- Klausurtraining: fünf eigene Aufgabenblöcke sowie drei bearbeitete Originalquellen, insgesamt 29 Teilaufgaben.
+- Übungen: 27 Kurzübungen und sechs Lernwege mit 22 Vorbereitungs- und drei Zusatzetappen.
+- Klausurtraining: fünf eigene Aufgabenblöcke sowie drei bearbeitete Originalquellen, insgesamt 26 Vorbereitungs- und drei Zusatzaufgaben.
 
 Musterlösungen werden erst nach eigener Bearbeitung zugänglich. Freie Antworten werden nicht automatisch fachlich bewertet. Eingaben und Selbsteinschätzungen bleiben im jeweiligen Browser; sie lassen sich mit „Antworten sichern“ exportieren.
+
+## Kennzeichnung zur Klausurvorbereitung (06.11.2026)
+Unterrichtsgrundlage, Transfer mit bereitgestelltem Kontext und nicht vorausgesetzte Zusätze sind in `exam-scope.js` getrennt gekennzeichnet. Als Zusatz gelten die Versuchsplanung am Waldrand (Etappe 3 und entsprechende Selbsteinschätzung), die vertiefte Bestäubungsversuchsauswertung (Partnerwechsel, Etappen 2–3) sowie die Pantoffeltierchen-Aufgaben 4–6. Zusatzetappen werden bei der regulären Weiter-Navigation übersprungen und bleiben über gekennzeichnete Links erreichbar. Ihre Bearbeitung zählt nicht zum Vorbereitungsfortschritt. Gespeicherte Antworten und Häkchen bleiben erhalten, auch im Export.
+
+Im Wissensbereich sind zusätzliche Erklärbeispiele als solche eingeordnet; der Abschnitt zu Nutzen, Kosten und Abhängigkeiten sowie die Erläuterung des Konkurrenzausschlussprinzips sind aufklappbare Zusätze. Materialien in klausurähnlichen und Originalaufgaben erhalten auf ausdrücklichen Wunsch keine zusätzliche Kontextkennzeichnung. Fachtexte, Aufgaben und Musterlösungen bleiben erhalten. Bei der Pflanzenzuordnung stehen die sechs bestehenden Unterrichtsprofile nun direkt zum Nachschlagen bereit; der bisher unzutreffende Nachschlagehinweis wurde korrigiert.
+
+Prüfung: Datenvergleich mit dem vorherigen Stand (nur der Nachschlagehinweis der Pflanzenaufgabe geändert); 188 Ansichten auf Desktop und in WebKit mit iPad-Emulation. Zusatzfortschritt, direkte Links, Navigation, gespeicherte Antworten, Zurücksetzen, Pflanzenprofile und Lösungssperren geprüft.
 
 ## Fachliches Nachschlagewerk
 Die 21 Lernabschnitte wurden am 28.10.2026 vollständig als allgemeine Erklärtexte überarbeitet. Grundlage für Kursniveau und Umfang sind die sieben bereits behandelten GK-Arbeitsblätter: Ökosysteme, abiotische Faktoren/Toleranz, Konkurrenz/Potenz, ökologische Nische, Standorte/Pflanzen, Symbiose und Parasitismus. Die Materialien bestimmen die Inhalte; ihre Tabellen, Einzelfallauswertungen und Lösungen werden in diesem Bereich nicht erneut durchgearbeitet.

@@ -291,7 +291,7 @@ kurve:'Nutze den Regler, das Diagramm und die zusätzliche Langzeitbeobachtung. 
 potenzbegriffe:'Welche Aussage lässt die jeweilige Untersuchung zu? Ordne zu, ob physiologische Potenz, ökologische Potenz oder lediglich kurzfristiges Wachstum untersucht wurde.',
 konkurrenz:'Entscheide für jedes Paar, ob die Konkurrenz innerhalb derselben Art oder zwischen verschiedenen Arten stattfindet. Wähle den passenden Fachbegriff.',
 meisen:'Ordne die Beobachtungen Kohlmeise, Blaumeise oder beiden Arten zu. Gemeint sind typische Nutzungsschwerpunkte; sie gelten nicht ausnahmslos für jedes Tier.',
-pflanzen:'Wiederhole die Pflanzenprofile aus dem Unterricht: Ordne jeder der sechs Pflanzen ihr Nahrungsangebot für Bienen zu. Wenn du unsicher bist, nutze „Passende Lerninhalte“ unter der Aufgabe.',
+pflanzen:'Wiederhole die Pflanzenprofile aus dem Unterricht: Ordne jeder der sechs Pflanzen ihr Nahrungsangebot für Bienen zu. Wenn du unsicher bist, öffne „Pflanzenprofile aus dem Unterricht nachschlagen“ direkt über den Zuordnungen.',
 warnkette:'Ordne die Schritte vom Auftreten einer Gefahr bis zum Rückzug des Knallkrebses. Verschiebe die Aussagen mit den Pfeiltasten der Liste.',
 nutzen:'Ordne jede Tätigkeit oder jeden Vorteil der Grundel, dem Knallkrebs oder beiden Tieren zu.',
 asselkette:'Ordne die Schritte so, dass eine Ursache-Wirkungs-Kette entsteht: vom Anheften der Assel bis zu ihrem Verbleib nach dem Zungenverlust.',
